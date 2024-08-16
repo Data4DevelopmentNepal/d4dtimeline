@@ -1,6 +1,6 @@
 const timeline = document.querySelector('.timeline');
 let scrollPosition = 0;
-const scrollSpeed = 1; // Adjust the scroll speed here
+const scrollSpeed = 0.3; // Adjust the scroll speed here
 let isScrolling = false;
 let autoScrollInterval;
 let lastScrollTop = 0;
